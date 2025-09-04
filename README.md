@@ -1,4 +1,4 @@
-Diabetes Prediction using Scikit-Learn
+# Diabetes Prediction using Scikit-Learn
 This project is a classification-based machine learning model developed in a Jupyter Notebook to predict the onset of diabetes. The model is built using Python and the popular scikit-learn library. It follows a standard machine learning pipeline, from data exploration and preprocessing to model training and evaluation.
 
 Project Objective
